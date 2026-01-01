@@ -1,4 +1,4 @@
-# altiboks_UDM
+# altiboks_UDMP
 Oppskrift på oppsett av altiboks mot Unifi Dream Machine Pro
 
 Innledning
