@@ -6,14 +6,14 @@ Innledning
 Altiboks distribuerer internett over VLAN 102. Vedlagt følger de viktigste innstillingene som må settes på UDM Pro. Skjermbilder tatt November 2023. Dette omhandler kun internett, ikke IPTV.
 
 ## Generelle nettverksinnstillinger:
-![Dream Machine Pro]()
+![Dream Machine Pro](Dream Machine Pro.png)
 
 IPV6 forklaring: https://help.ui.com/hc/en-us/articles/115005868927-UniFi-Gateway-Static-IPv6-and-DHCPv6-Prefix-Delegation
 
 ## Innstillinger på ditt nettverk:
-![Nettverk]()
+![Nettverk](Nettverk.png)
 ## Klone macadressen fra Altiboks sin ruter
-![Altiboks]()
+![Altiboks](Altiboks.png)
 
 Forklaring SLAAC: https://www.networkacademy.io/ccna/ipv6/stateless-address-autoconfiguration-slaac
 
